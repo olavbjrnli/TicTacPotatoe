@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="play_game">Play Game</string>
+    <string name="playerWinner">THE WINNER IS</string>
+    <string name="new_game">New Game</string>
+    <string name="vs">VS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="draw">DRAW</string>
+</resources>
